@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+body {
+    font-family: "Montserrat";
+    margin: 30px;
+    max-width: 75%;
+}
+
+#title {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 0 5px 0 0;
+}
+
+#table div {
+    position: relative;
+    display: inline-grid;
+    align-items: start;
+    border: 1px solid black;
+    width: 250px;
+    height: 250px;
+    margin: 10px 10px 10px;
+    line-height: 50px;
+    text-align: center;
+    vertical-align: top;
+}
